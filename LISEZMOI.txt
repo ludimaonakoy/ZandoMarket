@@ -1,0 +1,4 @@
+Zando Market - site web (FR)
+Ouvrez index.html dans un navigateur.
+Pages : Accueil, Avantages, Tarifs, Securite, L'application, Contact.
+Tout est dans un seul fichier (images integrees).
